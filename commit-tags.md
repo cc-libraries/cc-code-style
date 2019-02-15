@@ -4,5 +4,7 @@
 - **function-pre** for function prepared, but not work
 - **function-alpha** for function works, but still have a lot of bugs
 - **build:** for build compile the source code to execute file or shared library.
+- **build-fix:** for fix build error or warning.
 - **fix:** some bug fix will be commited by this tag.
+- **fixing**: try to fix some bug.
 - **other:** not sure which tag should be, can be use this tag.
