@@ -7,4 +7,5 @@
 - **build-fix:** for fix build error or warning.
 - **fix:** some bug fix will be commited by this tag.
 - **fixing**: try to fix some bug.
+- **feature:** for the new feature.
 - **other:** not sure which tag should be, can be use this tag.
