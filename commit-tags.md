@@ -9,4 +9,5 @@
 - **fixing:**: try to fix some bug.
 - **feature:** for the new feature.
 - **feature-pre:** for feature prepared, but may not be work
+- **optimize:** code optimize
 - **other:** not sure which tag should be, can be use this tag.
