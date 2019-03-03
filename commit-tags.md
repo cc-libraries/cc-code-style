@@ -4,6 +4,7 @@
 - **build-fix:** for fix build error or warning.
 - **comment:** for all the comments commit.(e.g:ignore some files, create file and so on.)
 - **doc:** the documents for source code
+- **error:** errors in build and run time
 - **feature:** for the new feature.
 - **feature-pre:** for feature prepared, but may not be work
 - **fix:** some bug fix will be commited by this tag.
