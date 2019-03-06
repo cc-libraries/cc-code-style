@@ -13,3 +13,4 @@
 - **function-pre:** for function prepared, but may not be work
 - **optimize:** code optimize
 - **other:** not sure which tag should be, can be use this tag.
+- **test:** everything for test
