@@ -8,7 +8,8 @@
 - **feature:** for the new feature.
 - **feature-pre:** for feature prepared, but may not be work
 - **fix:** some bug fix will be commited by this tag.
-- **fixing:**: try to fix some bug.
+- **fixing:** try to fix some bug.
+- **fixed:** fixed some bug
 - **function-alpha:** for function works, but still have a lot of bugs
 - **function-pre:** for function prepared, but may not be work
 - **optimize:** code optimize
