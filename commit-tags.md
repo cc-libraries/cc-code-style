@@ -7,6 +7,7 @@
 - **error:** errors in build and run time
 - **feature:** for the new feature.
 - **feature-pre:** for feature prepared, but may not be work
+- **feature-test:** for feature test
 - **fix:** some bug fix will be commited by this tag.
 - **fixing:** try to fix some bug.
 - **fixed:** fixed some bug
