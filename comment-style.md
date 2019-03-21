@@ -3,6 +3,7 @@
 - **TODO** orange
 - **FIXME** #CE0071
 - **FIXED** green
-- **COMPILE** red
+- **COMPILE** 76E590
 - **LINK** blue
 - **COMMENT** #996633
+- **ERROR** red
