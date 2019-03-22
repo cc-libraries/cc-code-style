@@ -7,3 +7,4 @@
 - **LINK** blue
 - **COMMENT** #996633
 - **ERROR** red
+- **NOTICE** #BBC70D
