@@ -5,10 +5,10 @@
 - **StructName**: for struct naming
 - **ClassName**: for class naming
 - **tempVariable**: for temp variable naming or formal parameter
-- **_memberVariable**: for member variable naming
-- **functionName**: for function naming(no matter what function: static, non-static, virtual, pure virtual or any other)
+- **_member_variable**: for member | const | static | global variable naming
+- **function_name**: for function naming(no matter what function: static, non-static, virtual, pure virtual or any other)
 - **MACRO_DEFINITION**: for Macro definition
-- **NameSpace**: for namespace naming
+- **namespace**: for namespace naming
 - **InterfaceName**: for interface naming
 
 ### java style
