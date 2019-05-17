@@ -4,7 +4,8 @@
 - **EnumName**: for enum naming
 - **StructName**: for struct naming
 - **ClassName**: for class naming
-- **variableName**: for member variable naming(no matter what variable: member, global, static, non-static)
+- **tempVariable**: for temp variable naming or formal parameter
+- **_memberVariable**: for member variable naming
 - **functionName**: for function naming(no matter what function: static, non-static, virtual, pure virtual or any other)
 - **MACRO_DEFINITION**: for Macro definition
 - **NameSpace**: for namespace naming
